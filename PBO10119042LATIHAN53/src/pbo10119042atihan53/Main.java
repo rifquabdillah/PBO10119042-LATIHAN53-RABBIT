@@ -7,7 +7,9 @@ package pbo10119042atihan53;
 
 /**
  *
- * @author Stks
+ ** @author Muhammad Rifqu Abdillah
+ * Kelas : IF-1
+ * NIM   : 10119042
  */
 public class Main {    
     public static void main(String[] args) {
